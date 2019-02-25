@@ -1,0 +1,10 @@
+.movieWrapper{
+
+    margin: 5vh auto;
+    text-align: center;
+}
+
+.poster {
+    margin: auto;
+    height: 30vw;
+}
