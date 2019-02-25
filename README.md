@@ -1,4 +1,4 @@
-# webScappingMovies
+# WebScappingMovies
 User can search movies by scrapping/crawling the information from IMDB movie web site.
 This is deplayed on https://search-movies-by-crawling.herokuapp.com
 Cheerio is used for scrapping the information in Node (backend side). 
@@ -21,15 +21,15 @@ $ git clone https://github.com/Woongsik/webScappingMovies.git
 $ cd webScrappingMovies
 ```
 
-#### 2. Install depencies:
+#### 2. Install dependencies:
 
 ```bash
-$ cd client        # Install project dependencies
+$ cd client        # Go to client
 $ npm install      # Install project dependencies
 $ npm start        # Compile and launch on local environment
 
 $ cd ..            # Back to the folder
-$ cd server        # Back to server
+$ cd server        # Go to server
 $ npm install      # Install project dependencies
 $ nodemon index    # Compile and launch on local environment
 ```
