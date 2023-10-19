@@ -1,7 +1,6 @@
 # WebScappingMovies
-User can search movies by scrapping/crawling the information from IMDB movie web site.
-This is deplayed on https://search-movies-by-crawling.herokuapp.com
-Cheerio is used for scrapping the information in Node (backend side). 
+User can search movies by scrapping/crawling from IMDB movie web site.
+Cheerio is used for scrapping the information in Node. 
 (MongDB, Express, React, NodeJs) 
 
 
